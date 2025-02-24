@@ -8,6 +8,8 @@
 <body>
     <?php
         print ("Hola Mundo, desde el IES polígonosur");
+        define ('ALTURA', 180);
+        echo ALTURA;
     ?>
 
 </body>
