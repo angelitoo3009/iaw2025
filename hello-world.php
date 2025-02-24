@@ -7,8 +7,7 @@
 </head>
 <body>
     <?php
-        print ("Hola Mundo, desde el IES polígonosur");
-        define ('ALTURA', 180);
+        define ('ALTURA', "Hola Mundo, desde el IES polígonosur");
         echo ALTURA;
     ?>
 
