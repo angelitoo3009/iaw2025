@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $usuario = 'angel';  // Cambia si tu usuario MySQL es diferente
-$contraseña = '';   // Cambia si tu contraseña MySQL es diferente
+$contraseña = 'usuario';   // Cambia si tu contraseña MySQL es diferente
 $nombre_base_datos = 'concesionario';
 
 try {
